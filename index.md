@@ -97,7 +97,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/tesla2.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/market.png" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5-->
@@ -296,7 +296,7 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-8">
                                     <!-- Portfolio Modal - Title-->
-                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tesla stock data extracting</h2>
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Market Segmentation</h2>
                                     <!-- Icon Divider-->
                                     <div class="divider-custom">
                                         <div class="divider-custom-line"></div>
@@ -304,9 +304,9 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/tesla2.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/market.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">https://github.com/r33did/FinalAssignment</p>
+                                    <p class="mb-4">Market Segmentation with K-Means Clustering on Mall Costumer Kaggle Open Data https://www.kaggle.com/ahmadakmalamrullah/customer-segmentation-with-k-means-clustering</p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close Window
@@ -339,12 +339,7 @@
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/gcp.jpg" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Finished 15 quest from GCP about SQL, Database, Data Viz, and Machine Learning <br />
-                                    <br /> https://www.qwiklabs.com/public_profiles/0922fb0e-87e8-4286-a004-9c1bc56a5c0c 
-                                    </p>
-                                    <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
-                                        <i class="fas fa-times fa-fw"></i>
-                                        Close Window
-                                    </button>
+                                    <br /> https://www.qwiklabs.com/public_profiles/0922fb0e-87e8-4286-a004-9c1bc56a5c0c
                                 </div>
                             </div>
                         </div>
@@ -373,11 +368,6 @@
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/titanic.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Submission for Kaggle Competition to predict survival on the Titanic disaster. Got score 78.46% https://www.kaggle.com/ahmadakmalamrullah/titanic-submission-random-forest
-</p>
-                                    <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
-                                        <i class="fas fa-times fa-fw"></i>
-                                        Close Window
-                                    </button>
                                 </div>
                             </div>
                         </div>
@@ -385,6 +375,7 @@
                 </div>
             </div>
         </div>
+        
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
