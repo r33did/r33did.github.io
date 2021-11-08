@@ -115,7 +115,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="..." />
+                            <img class="img-fluid" src="assets/img/portfolio/titanic.png" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -370,7 +370,7 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/titanic.png" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Submission for Kaggle Competition to predict survival on the Titanic disaster. Got score 78.46% https://www.kaggle.com/ahmadakmalamrullah/titanic-submission-random-forest
 </p>
